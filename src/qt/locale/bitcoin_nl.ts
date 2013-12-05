@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Quarkcoin</source>
-        <translation>Over Quarkcoin</translation>
+        <source>About TehCoin</source>
+        <translation>Over TehCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Quarkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Quarkcoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;TehCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TehCoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>The Quarkcoin developers</source>
-        <translation>De Quarkcoin-ontwikkelaars</translation>
+        <source>The TehCoin developers</source>
+        <translation>De TehCoin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Quarkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw Quarkcoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <source>These are your TehCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn uw TehCoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Quarkcoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Quarkcoinadres bezit</translation>
+        <source>Sign a message to prove you own a TehCoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald TehCoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Quarkcoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Quarkcoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify a message to ensure it was signed with a specified TehCoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde TehCoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Quarkcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Quarkcoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw quarkcoins verzendt.</translation>
+        <source>These are your TehCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw TehCoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw tehcoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Quarkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quarkcoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw quarkcoins stelen.</translation>
+        <source>TehCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tehcoins from being stolen by malware infecting your computer.</source>
+        <translation>TehCoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw tehcoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Quarkcoin</source>
-        <translation>Laat informatie zien over Quarkcoin</translation>
+        <source>Show information about TehCoin</source>
+        <translation>Laat informatie zien over TehCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Quarkcoin address</source>
-        <translation>Verstuur munten naar een Quarkcoinadres</translation>
+        <source>Send coins to a TehCoin address</source>
+        <translation>Verstuur munten naar een TehCoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Quarkcoin</source>
-        <translation>Wijzig instellingen van Quarkcoin</translation>
+        <source>Modify configuration options for TehCoin</source>
+        <translation>Wijzig instellingen van TehCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Quarkcoin</source>
-        <translation>Quarkcoin</translation>
+        <source>TehCoin</source>
+        <translation>TehCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Quarkcoin</source>
-        <translation>&amp;Over Quarkcoin</translation>
+        <source>&amp;About TehCoin</source>
+        <translation>&amp;Over TehCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Quarkcoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Quarkcoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your TehCoin addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw TehCoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Quarkcoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Quarkcoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified TehCoin addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde TehCoinadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Quarkcoin client</source>
-        <translation>Quarkcoin client</translation>
+        <source>TehCoin client</source>
+        <translation>TehCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Quarkcoin network</source>
-        <translation><numerusform>%n actieve connectie naar Quarkcoinnetwerk</numerusform><numerusform>%n actieve connecties naar Quarkcoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to TehCoin network</source>
+        <translation><numerusform>%n actieve connectie naar TehCoinnetwerk</numerusform><numerusform>%n actieve connecties naar TehCoinnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Quarkcoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het TehCoinnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Quarkcoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Quarkcoinadres of misvormde URI-parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TehCoin address or malformed URI parameters.</source>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig TehCoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Quarkcoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Quarkcoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. TehCoin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. TehCoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Quarkcoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Quarkcoinadres</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TehCoin address.</source>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig TehCoinadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Quarkcoin-Qt</source>
-        <translation>Quarkcoin-Qt</translation>
+        <source>TehCoin-Qt</source>
+        <translation>TehCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Quarkcoin after logging in to the system.</source>
-        <translation>Start Quarkcoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start TehCoin after logging in to the system.</source>
+        <translation>Start TehCoin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Quarkcoin on system login</source>
-        <translation>Start &amp;Quarkcoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start TehCoin on system login</source>
+        <translation>Start &amp;TehCoin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Quarkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Quarkcoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the TehCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de TehCoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Quarkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Quarkcoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the TehCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het TehCoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quarkcoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Quarkcoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TehCoin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat TehCoin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Quarkcoin addresses in the transaction list or not.</source>
-        <translation>Of Quarkcoinadressen getoond worden in de transactielijst</translation>
+        <source>Whether to show TehCoin addresses in the transaction list or not.</source>
+        <translation>Of TehCoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Quarkcoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Quarkcoin.</translation>
+        <source>This setting will take effect after restarting TehCoin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van TehCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quarkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Quarkcoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TehCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het TehCoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start quarkcoin: click-to-pay handler</source>
-        <translation>Kan quarkcoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start tehcoin: click-to-pay handler</source>
+        <translation>Kan tehcoin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Quarkcoin-Qt help message to get a list with possible Quarkcoin command-line options.</source>
-        <translation>Toon het QuarkcoinQt-hulpbericht voor een lijst met mogelijke Quarkcoin commandoregel-opties.</translation>
+        <source>Show the TehCoin-Qt help message to get a list with possible TehCoin command-line options.</source>
+        <translation>Toon het TehCoinQt-hulpbericht voor een lijst met mogelijke TehCoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Quarkcoin - Debug window</source>
-        <translation>Quarkcoin-debugscherm</translation>
+        <source>TehCoin - Debug window</source>
+        <translation>TehCoin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Quarkcoin Core</source>
-        <translation>Quarkcoin Kern</translation>
+        <source>TehCoin Core</source>
+        <translation>TehCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Quarkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Quarkcoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the TehCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het TehCoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Quarkcoin RPC console.</source>
-        <translation>Welkom bij de Quarkcoin RPC-console.</translation>
+        <source>Welcome to the TehCoin RPC console.</source>
+        <translation>Welkom bij de TehCoin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Vul een Quarkcoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Vul een TehCoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Quarkcoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Quarkcoinadres bezit</translation>
+        <source>Sign the message to prove you own this TehCoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald TehCoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Quarkcoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Quarkcoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified TehCoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde TehCoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Vul een Quarkcoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Vul een TehCoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Quarkcoin signature</source>
-        <translation>Voer Quarkcoin-handtekening in</translation>
+        <source>Enter TehCoin signature</source>
+        <translation>Voer TehCoin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Quarkcoin developers</source>
-        <translation>De Quarkcoin-ontwikkelaars</translation>
+        <source>The TehCoin developers</source>
+        <translation>De TehCoin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2184,11 +2184,11 @@ Adres: %4
     </message>
 </context>
 <context>
-    <name>quarkcoin-core</name>
+    <name>tehcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Quarkcoin version</source>
-        <translation>Quarkcoinversie</translation>
+        <source>TehCoin version</source>
+        <translation>TehCoinversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or quarkcoind</source>
-        <translation>Stuur commando naar -server of quarkcoind</translation>
+        <source>Send command to -server or tehcoind</source>
+        <translation>Stuur commando naar -server of tehcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,14 +2217,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: quarkcoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: quarkcoin.conf)
+        <source>Specify configuration file (default: tehcoin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: tehcoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: quarkcoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: quarkcoind.pid)
+        <source>Specify pid file (default: tehcoind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: tehcoind.pid)
 </translation>
     </message>
     <message>
@@ -2302,23 +2302,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkcoinrpc
+rpcuser=tehcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TehCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=quarkcoinrpc
+rpcuser=tehcoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;TehCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,8 +2332,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Quarkcoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Quarkcoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. TehCoin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. TehCoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Quarkcoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Quarkcoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TehCoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal TehCoin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Quarkcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Quarkcoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the TehCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de TehCoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quarkcoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Quarkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TehCoin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van TehCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Quarkcoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Quarkcoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart TehCoin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart TehCoin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Quarkcoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Quarkcoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. TehCoin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. TehCoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

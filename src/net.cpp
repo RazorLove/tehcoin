@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2013 Quarkcoin developers
+// Copyright (c) 2013 TehCoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -1192,8 +1192,8 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"quarkcoin.no-ip.biz", "quarkcoin.no-ip.biz"},
-    {"quarkcoin.mooo.com", "quarkcoin.mooo.com"},
+    {"tehcoin.no-ip.biz", "tehcoin.no-ip.biz"},
+    {"tehcoin.mooo.com", "tehcoin.mooo.com"},
     {NULL, NULL}
 };
 

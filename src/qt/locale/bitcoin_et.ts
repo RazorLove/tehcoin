@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Quarkcoin</source>
-        <translation>Quarkcoinist</translation>
+        <source>About TehCoin</source>
+        <translation>TehCoinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Quarkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Quarkcoini&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;TehCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TehCoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The Quarkcoin developers</source>
+        <source>The TehCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Quarkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad Quarkcoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your TehCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad TehCoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Quarkcoin address</source>
+        <source>Sign a message to prove you own a TehCoin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Quarkcoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Quarkcoini aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified TehCoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud TehCoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Quarkcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Quarkcoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your TehCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu TehCoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Quarkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quarkcoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista quarkcoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>TehCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tehcoins from being stolen by malware infecting your computer.</source>
+        <translation>TehCoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista tehcoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Quarkcoin</source>
-        <translation>Kuva info Quarkcoini kohta</translation>
+        <source>Show information about TehCoin</source>
+        <translation>Kuva info TehCoini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Quarkcoin address</source>
-        <translation>Saada münte Quarkcoini aadressile</translation>
+        <source>Send coins to a TehCoin address</source>
+        <translation>Saada münte TehCoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Quarkcoin</source>
-        <translation>Muuda Quarkcoini seadeid</translation>
+        <source>Modify configuration options for TehCoin</source>
+        <translation>Muuda TehCoini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Quarkcoin</source>
-        <translation>Quarkcoin</translation>
+        <source>TehCoin</source>
+        <translation>TehCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Quarkcoin</source>
-        <translation>%Quarkcoinist</translation>
+        <source>&amp;About TehCoin</source>
+        <translation>%TehCoinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Quarkcoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Quarkcoini aadressiga</translation>
+        <source>Sign messages with your TehCoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma TehCoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Quarkcoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Quarkcoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified TehCoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud TehCoini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Quarkcoin client</source>
-        <translation>Quarkcoini klient</translation>
+        <source>TehCoin client</source>
+        <translation>TehCoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Quarkcoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Quarkcoini võrku</numerusform><numerusform>%n aktiivset ühendust Quarkcoini võrku</numerusform></translation>
+        <source>%n active connection(s) to TehCoin network</source>
+        <translation><numerusform>%n aktiivne ühendus TehCoini võrku</numerusform><numerusform>%n aktiivset ühendust TehCoini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Quarkcoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Quarkcoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TehCoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu TehCoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Quarkcoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Quarkcoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. TehCoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. TehCoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Quarkcoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Quarkcoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TehCoin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole TehCoinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Quarkcoin-Qt</source>
-        <translation>Quarkcoini-Qt</translation>
+        <source>TehCoin-Qt</source>
+        <translation>TehCoini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Quarkcoin after logging in to the system.</source>
-        <translation>Käivita Quarkcoin süsteemi logimisel.</translation>
+        <source>Automatically start TehCoin after logging in to the system.</source>
+        <translation>Käivita TehCoin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Quarkcoin on system login</source>
-        <translation>&amp;Start Quarkcoin sisselogimisel</translation>
+        <source>&amp;Start TehCoin on system login</source>
+        <translation>&amp;Start TehCoin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Quarkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Quarkcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the TehCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>TehCoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Quarkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta Quarkcoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the TehCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta TehCoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quarkcoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Quarkcoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TehCoin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub TehCoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Quarkcoin addresses in the transaction list or not.</source>
-        <translation>Kuvada Quarkcoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show TehCoin addresses in the transaction list or not.</source>
+        <translation>Kuvada TehCoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Quarkcoin.</source>
-        <translation>Tehtud valik rakendub Quarkcoini käivitamisel.</translation>
+        <source>This setting will take effect after restarting TehCoin.</source>
+        <translation>Tehtud valik rakendub TehCoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quarkcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TehCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1068,8 +1068,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start quarkcoin: click-to-pay handler</source>
-        <translation>Quarkcoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start tehcoin: click-to-pay handler</source>
+        <translation>TehCoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Quarkcoin-Qt help message to get a list with possible Quarkcoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks Quarkcoini-Qt abiteksti</translation>
+        <source>Show the TehCoin-Qt help message to get a list with possible TehCoin command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks TehCoini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Quarkcoin - Debug window</source>
-        <translation>Quarkcoin - debugimise aken</translation>
+        <source>TehCoin - Debug window</source>
+        <translation>TehCoin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Quarkcoin Core</source>
-        <translation>Quarkcoini tuumik</translation>
+        <source>TehCoin Core</source>
+        <translation>TehCoini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Quarkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Quarkcoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the TehCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava TehCoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Quarkcoin RPC console.</source>
-        <translation>Teretulemast Quarkcoini RPC konsooli.</translation>
+        <source>Welcome to the TehCoin RPC console.</source>
+        <translation>Teretulemast TehCoini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Sisesta Quarkcoini aadress (nt: Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Sisesta TehCoini aadress (nt: Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Quarkcoin address</source>
-        <translation>Allkirjasta sõnum Quarkcoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this TehCoin address</source>
+        <translation>Allkirjasta sõnum TehCoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Quarkcoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Quarkcoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified TehCoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud TehCoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Sisesta Quarkcoini aadress (nt: Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Sisesta TehCoini aadress (nt: Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Quarkcoin signature</source>
-        <translation>Sisesta Quarkcoini allkiri</translation>
+        <source>Enter TehCoin signature</source>
+        <translation>Sisesta TehCoini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Quarkcoin developers</source>
+        <source>The TehCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2183,11 +2183,11 @@ Aadress: %4⏎</translation>
     </message>
 </context>
 <context>
-    <name>quarkcoin-core</name>
+    <name>tehcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Quarkcoin version</source>
-        <translation>Quarkcoini versioon</translation>
+        <source>TehCoin version</source>
+        <translation>TehCoini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or quarkcoind</source>
-        <translation>Saada käsklus -serverile või quarkcoindile</translation>
+        <source>Send command to -server or tehcoind</source>
+        <translation>Saada käsklus -serverile või tehcoindile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: quarkcoin.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: quarkcoin.conf)</translation>
+        <source>Specify configuration file (default: tehcoin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: tehcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: quarkcoind.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: quarkcoin.pid)</translation>
+        <source>Specify pid file (default: tehcoind.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: tehcoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkcoinrpc
+rpcuser=tehcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TehCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=quarkcoinrpc
+rpcuser=tehcoinrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Quarkcoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;TehCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;Quarkcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Quarkcoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Quarkcoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. TehCoin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on TehCoin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;Quarkcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Quarkcoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Quarkcoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TehCoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis TehCoin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;Quarkcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Quarkcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Quarkcoini Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the TehCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata TehCoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;Quarkcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quarkcoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Quarkcoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TehCoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab TehCoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Quarkcoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Quarkcoin</translation>
+        <source>Wallet needed to be rewritten: restart TehCoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita TehCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;Quarkcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Quarkcoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Quarkcoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. TehCoin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. TehCoin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Quarkcoin</source>
-        <translation>About Quarkcoin</translation>
+        <source>About TehCoin</source>
+        <translation>About TehCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Quarkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Quarkcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;TehCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TehCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Quarkcoin developers</source>
-        <translation>The Quarkcoin developers</translation>
+        <source>The TehCoin developers</source>
+        <translation>The TehCoin developers</translation>
     </message>
 </context>
 <context>
@@ -69,8 +69,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Quarkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Quarkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your TehCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your TehCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -84,8 +84,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Quarkcoin address</source>
-        <translation>Sign a message to prove you own a Quarkcoin address</translation>
+        <source>Sign a message to prove you own a TehCoin address</source>
+        <translation>Sign a message to prove you own a TehCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -109,8 +109,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Quarkcoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified Quarkcoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified TehCoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified TehCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -124,8 +124,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Quarkcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Quarkcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your TehCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your TehCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -277,8 +277,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Quarkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quarkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</translation>
+        <source>TehCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tehcoins from being stolen by malware infecting your computer.</source>
+        <translation>TehCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tehcoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Quarkcoin</source>
-        <translation>Show information about Quarkcoin</translation>
+        <source>Show information about TehCoin</source>
+        <translation>Show information about TehCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -421,13 +421,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Quarkcoin address</source>
-        <translation>Send coins to a Quarkcoin address</translation>
+        <source>Send coins to a TehCoin address</source>
+        <translation>Send coins to a TehCoin address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Quarkcoin</source>
-        <translation>Modify configuration options for Quarkcoin</translation>
+        <source>Modify configuration options for TehCoin</source>
+        <translation>Modify configuration options for TehCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -457,8 +457,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Quarkcoin</source>
-        <translation>Quarkcoin</translation>
+        <source>TehCoin</source>
+        <translation>TehCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Quarkcoin</source>
-        <translation>&amp;About Quarkcoin</translation>
+        <source>&amp;About TehCoin</source>
+        <translation>&amp;About TehCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,13 +502,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Quarkcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Quarkcoin addresses to prove you own them</translation>
+        <source>Sign messages with your TehCoin addresses to prove you own them</source>
+        <translation>Sign messages with your TehCoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Quarkcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Quarkcoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified TehCoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified TehCoin addresses</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -538,15 +538,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Quarkcoin client</source>
-        <translation>Quarkcoin client</translation>
+        <source>TehCoin client</source>
+        <translation>TehCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Quarkcoin network</source>
+        <source>%n active connection(s) to TehCoin network</source>
         <translation>
-            <numerusform>%n active connection to Quarkcoin network</numerusform>
-            <numerusform>%n active connections to Quarkcoin network</numerusform>
+            <numerusform>%n active connection to TehCoin network</numerusform>
+            <numerusform>%n active connections to TehCoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -670,8 +670,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Quarkcoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Quarkcoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TehCoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid TehCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Quarkcoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Quarkcoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. TehCoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. TehCoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -751,8 +751,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Quarkcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Quarkcoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TehCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid TehCoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -770,8 +770,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Quarkcoin-Qt</source>
-        <translation>Quarkcoin-Qt</translation>
+        <source>TehCoin-Qt</source>
+        <translation>TehCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -833,13 +833,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Quarkcoin after logging in to the system.</source>
-        <translation>Automatically start Quarkcoin after logging in to the system.</translation>
+        <source>Automatically start TehCoin after logging in to the system.</source>
+        <translation>Automatically start TehCoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Quarkcoin on system login</source>
-        <translation>&amp;Start Quarkcoin on system login</translation>
+        <source>&amp;Start TehCoin on system login</source>
+        <translation>&amp;Start TehCoin on system login</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -858,8 +858,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Quarkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Quarkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the TehCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the TehCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -868,8 +868,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Quarkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Quarkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the TehCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the TehCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -943,8 +943,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quarkcoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Quarkcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TehCoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting TehCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -958,8 +958,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Quarkcoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Quarkcoin addresses in the transaction list or not.</translation>
+        <source>Whether to show TehCoin addresses in the transaction list or not.</source>
+        <translation>Whether to show TehCoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Quarkcoin.</source>
-        <translation>This setting will take effect after restarting Quarkcoin.</translation>
+        <source>This setting will take effect after restarting TehCoin.</source>
+        <translation>This setting will take effect after restarting TehCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1029,8 +1029,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quarkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Quarkcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TehCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the TehCoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1083,8 +1083,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start quarkcoin: click-to-pay handler</source>
-        <translation>Cannot start quarkcoin: click-to-pay handler</translation>
+        <source>Cannot start tehcoin: click-to-pay handler</source>
+        <translation>Cannot start tehcoin: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1233,8 +1233,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Quarkcoin-Qt help message to get a list with possible Quarkcoin command-line options.</source>
-        <translation>Show the Quarkcoin-Qt help message to get a list with possible Quarkcoin command-line options.</translation>
+        <source>Show the TehCoin-Qt help message to get a list with possible TehCoin command-line options.</source>
+        <translation>Show the TehCoin-Qt help message to get a list with possible TehCoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,13 +1253,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Quarkcoin - Debug window</source>
-        <translation>Quarkcoin - Debug window</translation>
+        <source>TehCoin - Debug window</source>
+        <translation>TehCoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Quarkcoin Core</source>
-        <translation>Quarkcoin Core</translation>
+        <source>TehCoin Core</source>
+        <translation>TehCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1268,8 +1268,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Quarkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Quarkcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the TehCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the TehCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1278,8 +1278,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Quarkcoin RPC console.</source>
-        <translation>Welcome to the Quarkcoin RPC console.</translation>
+        <source>Welcome to the TehCoin RPC console.</source>
+        <translation>Welcome to the TehCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1462,8 +1462,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1527,8 +1527,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Quarkcoin address</source>
-        <translation>Sign the message to prove you own this Quarkcoin address</translation>
+        <source>Sign the message to prove you own this TehCoin address</source>
+        <translation>Sign the message to prove you own this TehCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,8 +1563,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Quarkcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Quarkcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified TehCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified TehCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Enter a Quarkcoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Enter a TehCoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1589,8 +1589,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Quarkcoin signature</source>
-        <translation>Enter Quarkcoin signature</translation>
+        <source>Enter TehCoin signature</source>
+        <translation>Enter TehCoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1663,8 +1663,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Quarkcoin developers</source>
-        <translation>The Quarkcoin developers</translation>
+        <source>The TehCoin developers</source>
+        <translation>The TehCoin developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2213,11 +2213,11 @@ Address: %4
     </message>
 </context>
 <context>
-    <name>quarkcoin-core</name>
+    <name>tehcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Quarkcoin version</source>
-        <translation>Quarkcoin version</translation>
+        <source>TehCoin version</source>
+        <translation>TehCoin version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2226,8 +2226,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or quarkcoind</source>
-        <translation>Send command to -server or quarkcoind</translation>
+        <source>Send command to -server or tehcoind</source>
+        <translation>Send command to -server or tehcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2246,13 +2246,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: quarkcoin.conf)</source>
-        <translation>Specify configuration file (default: quarkcoin.conf)</translation>
+        <source>Specify configuration file (default: tehcoin.conf)</source>
+        <translation>Specify configuration file (default: tehcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: quarkcoind.pid)</source>
-        <translation>Specify pid file (default: quarkcoind.pid)</translation>
+        <source>Specify pid file (default: tehcoind.pid)</source>
+        <translation>Specify pid file (default: tehcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2329,24 +2329,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkcoinrpc
+rpcuser=tehcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TehCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkcoinrpc
+rpcuser=tehcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TehCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2361,8 +2361,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Quarkcoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Quarkcoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. TehCoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. TehCoin is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2406,8 +2406,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Quarkcoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Quarkcoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TehCoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TehCoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2656,8 +2656,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Quarkcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Quarkcoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the TehCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the TehCoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2846,13 +2846,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quarkcoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Quarkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TehCoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of TehCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Quarkcoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart Quarkcoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart TehCoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart TehCoin to complete</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2911,8 +2911,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Quarkcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Quarkcoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Quarkcoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. TehCoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. TehCoin is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>

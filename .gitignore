@@ -1,7 +1,7 @@
 src/*.exe
-src/quarkcoin
-src/quarkcoind
-src/test_quarkcoin
+src/tehcoin
+src/tehcoind
+src/test_tehcoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_quarkcoin
 *.orig
 *.o
 *.patch
-.quarkcoin
+.tehcoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-quarkcoin-qt
-Quarkcoin-Qt.app
+tehcoin-qt
+TehCoin-Qt.app
 
 # Unit-tests
 Makefile.test
-quarkcoin-qt_test
+tehcoin-qt_test
 
 # Resources cpp
 qrc_*.cpp

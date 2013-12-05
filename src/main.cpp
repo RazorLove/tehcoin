@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2013 The Bitcoin developers
 // Copyright (c) 2013 The Sifcoin developers
-// Copyright (c) 2013 The Quarkcoin developers
+// Copyright (c) 2013 The TehCoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -34,8 +34,8 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x00000c257b93a36e9a4318a64398d661866341331a984e2b486414fc5bb16ccd");
-static const unsigned int timeGenesisBlock = 1374408079;
+uint256 hashGenesisBlock("0x");
+static const unsigned int timeGenesisBlock = 1375410950;
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -68,7 +68,7 @@ map<uint256, map<uint256, CDataStream*> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Quarkcoin Signed Message:\n";
+const string strMessageMagic = "TehCoin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -1086,21 +1086,7 @@ static const int64 nInterval = nTargetTimespan / nTargetSpacing; // 20 blocks
 
 int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
 {
-    if (nHeight == 0)
-    {
-        return nGenesisBlockRewardCoin;
-    }
-    
-    int64 nSubsidy = nBlockRewardStartCoin;
-
-    // Subsidy is cut in half every 60480 blocks (21 days)
-    nSubsidy >>= (nHeight / 60480);
-    
-    // Minimum subsidy
-    if (nSubsidy < nBlockRewardMinimumCoin)
-    {
-        nSubsidy = nBlockRewardMinimumCoin;
-    }
+	int64 nSubsidy = 1 * COIN; 
 
     return nSubsidy + nFees;
 }
@@ -2740,7 +2726,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0x1A;
         pchMessageStart[2] = 0x39;
         pchMessageStart[3] = 0xF7;
-        hashGenesisBlock = uint256("0x00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96");
+        hashGenesisBlock = uint256("0x");
     }
 
     //
@@ -2766,29 +2752,8 @@ bool InitBlockIndex() {
     // Only add the genesis block if not reindexing (in which case we reuse the one already on disk)
     if (!fReindex) {
         // Genesis Block:
-/*
-00000c257b93a36e9a4318a64398d661866341331a984e2b486414fc5bb16ccd
-000002ad378e6403ff83488eb33f36402f838993d8e2aaf2849f30f0c6994c50
-868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776
-CBlock(hash=00000c257b93a36e9a4318a64398d661866341331a984e2b486414fc5bb16ccd, ver=112, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776, nTime=1374408079, nBits=1e0fffff, nNonce=12058113, vtx=1)
-  CTransaction(hash=868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776, ver=1, vin.size=1, vout.size=1, nLockTime=0, strTxComment=)
-    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d0104423231204a756c7920323031332c2054686520477561726469616e2c20546573636f20626f7373207361797320636865617020666f6f6420657261206973206f766572)
-    CTxOut(nValue=1.00000, scriptPubKey=04678afdb0fe5548271967f1a67130)
-  vMerkleTree: 868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776 
-  
-testnet:
-00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96
-000007e82a36afe58a204aa75b8d6d7d1661a1216dc631927857726f8624c5ab
-868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776
-CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ver=112, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776, nTime=1373481000, nBits=1e0fffff, nNonce=905523645, vtx=1)
-  CTransaction(hash=868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776, ver=1, vin.size=1, vout.size=1, nLockTime=0, strTxComment=)
-    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d0104423231204a756c7920323031332c2054686520477561726469616e2c20546573636f20626f7373207361797320636865617020666f6f6420657261206973206f766572)
-    CTxOut(nValue=1.00000, scriptPubKey=04678afdb0fe5548271967f1a67130)
-  vMerkleTree: 868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776 
-*/
 
-        // Genesis block
-        const char* pszTimestamp = "21 July 2013, The Guardian, Tesco boss says cheap food era is over";
+        const char* pszTimestamp = "TehCoin: Really? ZOMGROFLPOP, yes, really.";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2802,7 +2767,24 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
         block.nVersion = 112;
         block.nTime    = timeGenesisBlock;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 12058113;
+        block.nNonce   = 0;
+
+if (true  && (block.GetHash() != hashGenesisBlock)) {
+	 
+		// This will figure out a valid hash and Nonce if you're
+		// creating a different genesis block:
+		    uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
+		    while (block.GetHash() > hashTarget)
+		       {
+		           ++block.nNonce;
+		           if (block.nNonce == 0)
+		           {
+		               printf("NONCE WRAPPED, incrementing time");
+		               ++block.nTime;
+		           }
+		       }
+        }
+
 
         if (fTestNet)
         {
@@ -2817,11 +2799,13 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
             hash = block.GetHash();
         }
 
+
+
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
         block.print();
-        assert(block.hashMerkleRoot == uint256("0x868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776"));
+        assert(block.hashMerkleRoot == uint256("0x"));
         assert(hash == hashGenesisBlock);
 
         // Start new block file
@@ -4541,7 +4525,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return false;
 
     //// debug print
-    printf("QuarkcoinMiner:\n");
+    printf("TehCoinMiner:\n");
     printf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex().c_str(), hashTarget.GetHex().c_str());
     pblock->print();
     printf("generated %s\n", FormatMoney(pblock->vtx[0].vout[0].nValue).c_str());
@@ -4550,7 +4534,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != hashBestChain)
-            return error("QuarkcoinMiner : generated block is stale");
+            return error("TehCoinMiner : generated block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -4564,7 +4548,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("QuarkcoinMiner : ProcessBlock, block not accepted");
+            return error("TehCoinMiner : ProcessBlock, block not accepted");
     }
 
     return true;
@@ -4572,9 +4556,9 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
 
 void static BitcoinMiner(CWallet *pwallet)
 {
-    printf("QuarkcoinMiner started\n");
+    printf("TehCoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("quarkcoin-miner");
+    RenameThread("tehcoin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);
@@ -4598,7 +4582,7 @@ void static BitcoinMiner(CWallet *pwallet)
         CBlock *pblock = &pblocktemplate->block;
         IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-        printf("Running QuarkcoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
+        printf("Running TehCoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
                ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //
@@ -4702,7 +4686,7 @@ void static BitcoinMiner(CWallet *pwallet)
     } }
     catch (boost::thread_interrupted)
     {
-        printf("QuarkcoinMiner terminated\n");
+        printf("TehCoinMiner terminated\n");
         throw;
     }
 }
